@@ -1,2 +1,0 @@
-# SOTY
-soty reads
