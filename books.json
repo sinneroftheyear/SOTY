@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Story Title Here",
+    "author": "Author Name",
+    "folder": "books/book1",
+    "chapters": [
+      {
+        "title": "Chapter 1: Start",
+        "file": "chapter1.html",
+        "date": "2026-06-29T10:00:00"
+      }
+    ]
+  }
+]
